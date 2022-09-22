@@ -1,0 +1,41 @@
+
+.register-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.register-container{
+  
+  padding: 20px 20px;
+  border: 2px  black;
+  margin: 20px;
+  border-radius: 20px;
+}
+
+.register-title{
+  text-align: center;
+  margin-bottom: 20px;
+  font-family: monospace;
+  color: #194E9F;
+}
+
+.register-input{
+  display: block;
+  padding: 7px;
+  margin: 10px auto;
+}
+
+.register-button{
+  padding: 2px 5px;
+}
+
+.logo{
+  height: 250px;
+  width: 250px;
+}
+
+.card-finais{
+  display: flex;
+  
+}
